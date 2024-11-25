@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-10T15:40:17 IST" name="RestAssured" finished-at="2024-06-10T15:40:23 IST" duration-ms="6845">
+    <groups>
+    </groups>
+    <test started-at="2024-06-10T15:40:17 IST" name="RestAssuredNew" finished-at="2024-06-10T15:40:23 IST" duration-ms="6845">
+      <class name="TestCase.CreateBooking">
+        <test-method signature="createBooking(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestCase.CreateBooking@17aad511]" started-at="2024-06-10T15:40:17 IST" name="createBooking" data-provider="dp" finished-at="2024-06-10T15:40:21 IST" duration-ms="3814" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Aayush]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Antony]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[125]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[TRUE]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1/1/20]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[2/2/20]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Dinner]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createBooking -->
+        <test-method signature="createBooking(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestCase.CreateBooking@17aad511]" started-at="2024-06-10T15:40:21 IST" name="createBooking" data-provider="dp" finished-at="2024-06-10T15:40:22 IST" duration-ms="1194" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Wilfred]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Vanspall]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[245]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[2/2/20]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[3/3/20]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Lunch]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createBooking -->
+        <test-method signature="createBooking(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestCase.CreateBooking@17aad511]" started-at="2024-06-10T15:40:22 IST" name="createBooking" data-provider="dp" finished-at="2024-06-10T15:40:23 IST" duration-ms="1153" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sam]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Peter]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[232]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[2/2/21]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[2/2/21]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Breakfast]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createBooking -->
+      </class> <!-- TestCase.CreateBooking -->
+    </test> <!-- RestAssuredNew -->
+  </suite> <!-- RestAssured -->
+</testng-results>
