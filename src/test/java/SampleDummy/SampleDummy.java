@@ -1,3 +1,4 @@
+package SampleDummy;
 
 public class SampleDummy {
 
